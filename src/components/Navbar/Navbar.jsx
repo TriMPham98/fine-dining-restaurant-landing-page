@@ -32,7 +32,10 @@ const Navbar = () => (
       <a href="#login" className="p__opensans">
         Log In / Register
       </a>
-      <a href="/" className="p__opensans">Book Table</a>
+      <div></div>
+      <a href="/" className="p__opensans">
+        Book Table
+      </a>
     </div>
   </nav>
 );
