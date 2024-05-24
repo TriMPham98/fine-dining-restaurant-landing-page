@@ -16,9 +16,11 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">About Us</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
         <p className="p__opensans">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis pharetra
-          adipiscing ultrices vulputate posuere tristique. In sed odio nec
-          aliquet eu proin mauris et.
+          Welcome to our restaurant, where culinary excellence meets the
+          elegance of fine dining. Our commitment to exceptional service and
+          exquisite dishes is designed to provide an unforgettable experience.
+          Join us for a journey through refined flavors and gourmet
+          presentations crafted by our renowned chefs.
         </p>
         <button type="button" className="custom__button">
           Know More
