@@ -16,11 +16,9 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">About Us</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
         <p className="p__opensans">
-          Welcome to our restaurant, where culinary excellence meets the
-          elegance of fine dining. Our commitment to exceptional service and
-          exquisite dishes is designed to provide an unforgettable experience.
-          Join us for a journey through refined flavors and gourmet
-          presentations crafted by our renowned chefs.
+          Discover our restaurant's blend of fine dining and top-tier culinary
+          craftsmanship. Experience our dedication to outstanding service and
+          exceptional dishes.
         </p>
         <button type="button" className="custom__button">
           Know More
@@ -35,11 +33,9 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">Our History</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
         <p className="p__opensans">
-          Our restaurant's journey began over a decade ago, rooted in a passion
-          for fine dining and a commitment to quality. From our humble
-          beginnings as a small family-run establishment, we have grown into a
-          renowned culinary destination, celebrated for our innovative dishes
-          and exceptional service.
+          Starting as a modest family-run spot, our restaurant has evolved into
+          a distinguished name in fine dining, known for innovative cuisine and
+          top-notch service.
         </p>
         <button type="button" className="custom__button">
           Know More
