@@ -35,9 +35,11 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">Our History</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
         <p className="p__opensans">
-          Adipiscing tempus ullamcorper lobortis odio tellus arcu volutpat.
-          Risus placerat morbi volutpat habitasse interdum mi aliquam In sed
-          odio nec aliquet.
+          Our restaurant's journey began over a decade ago, rooted in a passion
+          for fine dining and a commitment to quality. From our humble
+          beginnings as a small family-run establishment, we have grown into a
+          renowned culinary destination, celebrated for our innovative dishes
+          and exceptional service.
         </p>
         <button type="button" className="custom__button">
           Know More
