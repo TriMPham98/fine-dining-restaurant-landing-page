@@ -17,14 +17,15 @@ const Chef = () => (
         <div className="app__chef-content_quote">
           <img src={images.quote} alt="quote_image" />
           <p className="p__opensans">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit auctor sit .
+            At the heart of our kitchen, we embrace the sophisticated flavors of
+            modern gastronomy while honoring the tradition of true
+            craftsmanship.
           </p>
         </div>
         <p className="p__opensans">
-          {" "}
-          auctor sit iaculis in arcu. Vulputate nulla lobortis mauris eget sit.
-          Nulla scelerisque scelerisque congue ac consequat, aliquam molestie
-          lectus eu. Congue iaculis integer curabitur semper sit nunc.{" "}
+          Each dish is a narrative of the landscape and our personal respect for
+          the ingredients. We strive to transform simple, high-quality materials
+          into culinary masterpieces for our guests.
         </p>
       </div>
 
