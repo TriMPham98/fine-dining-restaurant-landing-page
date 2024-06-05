@@ -30,8 +30,8 @@ const Gallery = () => {
         <p
           className="p__opensans"
           style={{ color: "#AAAAAA", marginTop: "2rem" }}>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat
-          mattis ipsum turpis elit elit scelerisque egestas mu.
+          Explore the elegance and sophistication of our culinary delights
+          through our photo gallery.
         </p>
         <button type="button" className="custom__button">
           View More
