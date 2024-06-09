@@ -7,3 +7,8 @@
 .app__newsletter-heading {
   text-align: center;
 }
+
+.app__newsletter-input {
+  flex-direction: row;
+  margin-top: 3rem;
+}
